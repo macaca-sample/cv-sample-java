@@ -1,10 +1,14 @@
 # cv-sample-java
 
-see: [bytedeco/javacv](//github.com/bytedeco/javacv)
+## NodeCV Server
 
 ``` bash
 $ mvn -s settings.xml clean install
 ```
+
+## JavaCV
+
+[bytedeco/javacv](//github.com/bytedeco/javacv)
 
 ## License
 
